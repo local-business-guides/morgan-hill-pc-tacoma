@@ -25,6 +25,9 @@
 - [Choosing an attorney at law family Tacoma](https://local-business-guides.github.io/morgan-hill-pc-tacoma/attorney-at-law-family-tacoma/): Talk through your family law concerns with Morgan Hill PC in Tacoma and get clear guidance on your next steps.
 - [How to choose a family law attorney tacoma](https://local-business-guides.github.io/morgan-hill-pc-tacoma/family-law-attorney-tacoma/): Find clear, personal guidance for family law concerns with Morgan Hill PC in Tacoma, Washington.
 
+## Newsroom
+- [Morgan Hill PC Shares Divorce Attorney Guide for Tacoma Readers](https://local-business-guides.github.io/morgan-hill-pc-tacoma/news/2026-10-27-morgan-hill-pc-shares-divorce-attorney-guide-for-t/): Morgan Hill PC has published a guide to divorce attorney services in Tacoma, with related video, podcast and audio content. (2026-10-27)
+
 ## Pages
 - [Divorce Attorney Tacoma, WA in Washington](https://local-business-guides.github.io/morgan-hill-pc-tacoma/): Get thoughtful legal guidance for family law and personal injury matters from a Tacoma firm that will listen to your concerns. Call +1253-579-0900.
 - [About Morgan Hill PC](https://local-business-guides.github.io/morgan-hill-pc-tacoma/about/): About Morgan Hill PC, Tacoma.
@@ -32,3 +35,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/morgan-hill-pc-tacoma/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/morgan-hill-pc-tacoma/news/rss.xml)
+- [Main resource site](https://morgan-hill-tacoma-family-law.localwebsites.chatgpt.site)
